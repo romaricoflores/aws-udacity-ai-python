@@ -1,0 +1,13 @@
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = alexnet 
+ dogfile = dognames.txt
+
+40 k\Key-value pairs in 'results_dic':
+
+Pet Image Label Dictionary has 0 key-value pairs.
+Below are 0 of them:
+Classify Images
+uploaded_images/
+alexnet
+{}
